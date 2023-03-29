@@ -1,0 +1,17 @@
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Infrustructure.deps.json
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Infrustructure.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Infrustructure.pdb
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Apllication.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Apllication.pdb
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.AssemblyInfo.cs
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.csproj.CopyComplete
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\refint\ETicaretAPI.Infrustructure.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.pdb
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ref\ETicaretAPI.Infrustructure.dll

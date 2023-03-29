@@ -1,0 +1,15 @@
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\bin\Debug\net6.0\ETicaretAPI.Apllication.deps.json
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\bin\Debug\net6.0\ETicaretAPI.Apllication.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\bin\Debug\net6.0\ETicaretAPI.Apllication.pdb
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.csproj.AssemblyReference.cache
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.AssemblyInfoInputs.cache
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.AssemblyInfo.cs
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.csproj.CoreCompileInputs.cache
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.csproj.CopyComplete
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\refint\ETicaretAPI.Apllication.dll
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ETicaretAPI.Apllication.pdb
+C:\Users\ozi\Desktop\ETicaretUygulaması\ETicaretAPI\Core\ETicaretAPI.Apllication\obj\Debug\net6.0\ref\ETicaretAPI.Apllication.dll
